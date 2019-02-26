@@ -1,0 +1,37 @@
+﻿  Main.cpp
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1014): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1015): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1016): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1017): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1018): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1019): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1020): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1196): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1357): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1449): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1451): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1453): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1455): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1486): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1488): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1499): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1501): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1531): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1533): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1535): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1537): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1544): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1561): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1563): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1565): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1567): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1594): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1596): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1598): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\uhvcavedod02\desktop\vetoserver\vetoserver\main.cpp(1612): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+  VETOServer.vcxproj -> C:\Users\UHVCAVEDoD02\Desktop\VETOServer\x64\Debug\VETOServer.exe
+  VETOServer.vcxproj -> C:\Users\UHVCAVEDoD02\Desktop\VETOServer\x64\Debug\VETOServer.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "C:\Users\UHVCAVEDoD02\Desktop\VETOServer\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+          2 file(s) copied.
