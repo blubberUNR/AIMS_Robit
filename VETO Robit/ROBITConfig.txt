@@ -1,0 +1,44 @@
+# ~ROBIT Config~
+
+# [Server Info]
+ServerIP: 10.8.54.104:7425
+
+# [ROBIT Basic Info]
+RobotName: PatrolBot
+RobotTypeID: 0
+
+#[ROBIT Speed Settings]
+# : minSpeed maxSpeed
+Speed: 90 900
+# Speed when detecting anything nearby
+LimitStopDistance: 225
+LimitSlowDistance: 300
+LimitSlowSpeed: 250
+LimitAvoidWidthRatio: 1.7
+# Speed when not detecting anything nearby
+NormalCloseDistance: 100
+NormalSpeed: 500
+NormalTurnSpeed: 100
+NormalTurnAmount: 7.0
+
+#[Senor Info and Settings]
+# : segmentSize originX Y Z headingOffset
+LRF: 10 5.0 0.0 27.5 0.0
+# : (origin)X Y Z Pitch Yaw Roll maxRange sensorID 
+Sonar: -23.74 15.27 32.5 0.0 152.17 0.0 500.0 10
+Sonar: -27.09 5.39 32.5 0.0 171.95 0.0 500.0 11
+Sonar: -27.09 -5.39 32.5 0.0 -171.95 0.0 500.0 12
+Sonar: -23.74 -15.27 32.5 0.0 -152.17 0.0 500.0 13
+
+#[Camera Info]
+# : (origin)X Y Z Pitch Yaw Roll cameraIndex
+Camera: 0.0 0.0 0.0 0.0 0.0 0.0 0
+Camera: 0.0 0.0 0.0 0.0 0.0 0.0 1
+
+#[Sound Settings]
+# Sound files are located in Resources folder
+# Files need to be .wav and should be short
+# Sound Levels: 0 (Disabled),  1 (Basic Sounds), 2 (Basic and Extra 
+# Sounds), 3 (Alt Basic and Extra Sounds)
+SoundLevel: 2
+Volume: 0.4
